@@ -1,3 +1,5 @@
+@import url(../Tag/tag.css);
+
 .question-card {
   border-radius: 25px;
   width: 300px;
@@ -22,7 +24,7 @@
   display: flex;
   justify-content: space-between;
   padding-left: 0;
-
+  flex-wrap: wrap;
   list-style-type: none;
   width: 100%;
 }
