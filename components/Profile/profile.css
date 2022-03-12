@@ -1,5 +1,9 @@
 @import url("../Tag/tag.css");
 
+.profile {
+  padding: 2em;
+}
+
 .profile__header {
   display: flex;
   align-items: center;
