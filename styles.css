@@ -1,7 +1,7 @@
 @import url("./components/Header/header.css");
 @import url("./components/QuestionCard/question-card.css");
 @import url("./components/NavBar/navbar.css");
-
+@import url("./components/Form/form.css");
 * {
   box-sizing: border-box;
 }
