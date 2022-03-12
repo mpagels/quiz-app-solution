@@ -19,6 +19,13 @@
   border-radius: 10px;
   background-color: aquamarine;
 }
+.question-card__button--open {
+  padding: 1.2em;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  background-color: sandybrown;
+}
 
 .question-card__tag-list {
   display: flex;
